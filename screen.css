@@ -1,6 +1,7 @@
 body { 
   font-family: 'Papyrus';
-  color: #ffa500;  
+  color: #ffa500;
+  width: 50%;  
 }
 
 h1 {
@@ -17,4 +18,31 @@ h2, h3 {
 
 p {
   background-color: rgb(128, 128, 128);
+  padding: 30px;
+}
+
+a {
+	color: purple;
+}
+
+a:hover {
+	color: rgb(100, 100, 255);
+}
+
+a:visited {
+	
+}
+
+.important {
+	text-transform: uppercase;
+}
+
+.new {
+	color: #b4da55;
+}
+
+.cake h1, .cake h2 {
+	border: none;
+	font-family: 'Impact';
+	color: rgba(255, 0, 0, 0.5);
 }
