@@ -21,6 +21,10 @@ p {
   padding: 30px;
 }
 
+p:hover{
+  box-shadow: 5px 5px 31px 0px rgba(74, 70, 76, 0.44);
+}
+
 a {
 	color: purple;
 }
