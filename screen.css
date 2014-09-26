@@ -42,7 +42,7 @@ nav ol {
 }
 
 nav li {
-	width: 100px;
+	display: inline;
 }
 
 a {
