@@ -4,7 +4,7 @@
 body { 
   font-family: 'Papyrus';
   color: #ffa500;
-  width: 500px;
+  width: 1000px;
   margin-top: 30px;
   margin-left: auto;
   margin-right: auto;
@@ -70,6 +70,16 @@ a:visited {
 
 .new {
 	color: #b4da55;
+}
+
+.cake {
+	float: left;
+	width: 50%;
+}
+
+.cookies {
+	float: left;
+	width: 50%;
 }
 
 .cake h1, .cake h2 {
