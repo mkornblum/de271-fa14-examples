@@ -1,3 +1,6 @@
+/* Mark's Dessert Diary CSS
+   Author: Mark Kornblum
+*/
 body { 
   font-family: 'Papyrus';
   color: #ffa500;
@@ -5,6 +8,10 @@ body {
   margin-top: 30px;
   margin-left: auto;
   margin-right: auto;
+}
+
+header {
+	background-color: rgb(128, 128, 128);
 }
 
 h1 {
@@ -28,6 +35,14 @@ p {
 
 p:hover{
   box-shadow: 5px 5px 31px 0px rgba(74, 70, 76, 0.44);
+}
+
+nav ol {
+	list-style-type: none;
+}
+
+nav li {
+	width: 100px;
 }
 
 a {
