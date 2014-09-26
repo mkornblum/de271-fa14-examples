@@ -11,6 +11,7 @@ h1 {
   font-family: 'Lobster', cursive;
   color: rgb(255, 0, 0);
   border: 30px dotted #0000bb;
+  margin-bottom: 60px;
 }
 
 h2, h3 {
@@ -22,6 +23,7 @@ h2, h3 {
 p {
   background-color: rgb(128, 128, 128);
   padding: 30px;
+  margin-top: 60px;
 }
 
 p:hover{
