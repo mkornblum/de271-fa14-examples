@@ -1,7 +1,10 @@
 body { 
   font-family: 'Papyrus';
   color: #ffa500;
-  width: 50%;  
+  width: 500px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
