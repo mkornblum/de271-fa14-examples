@@ -1,6 +1,11 @@
 body {
+	background-color: black;
 	color: red;
 	font-family: 'Arial';
 	font-size: 98px;
+}
+
+.wrapper {
+	background-color: white;
 }
 
