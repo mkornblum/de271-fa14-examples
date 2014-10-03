@@ -18,8 +18,13 @@ body {
 h2 {
 	border: 5px solid pink;
 	padding-left: 25px;
+	transition: all 1s;
 }
 
+h2:hover{
+	transform: rotate(360deg);
+	transition: all 1s;
+}
 
 p {
 	line-height: 22px;
@@ -28,6 +33,7 @@ p {
 a {
 	color: purple;
 	padding: 3px;
+	transition: all 1s;
 	text-decoration: none;
 }
 
@@ -35,4 +41,5 @@ a:hover {
 	color: #cccccc;
 	background-color: #2222ff;
 	border: 1px dotted #b4da55;
+	transition: all 1s;
 }
