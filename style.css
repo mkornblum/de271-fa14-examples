@@ -2,10 +2,37 @@ body {
 	background-color: black;
 	color: red;
 	font-family: 'Arial';
-	font-size: 98px;
+	font-size: 18px;
 }
 
 .wrapper {
 	background-color: white;
+	width: 700px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: auto;
+	/* margin: 20px auto; */
 }
 
+h2 {
+	border: 5px solid pink;
+	padding-left: 25px;
+}
+
+
+p {
+	line-height: 22px;
+}
+
+a {
+	color: purple;
+	padding: 3px;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #cccccc;
+	background-color: #2222ff;
+	border: 1px dotted #b4da55;
+}
