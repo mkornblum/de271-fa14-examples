@@ -13,3 +13,7 @@ ul {
 li {
 	float: left;
 }
+
+footer {
+	clear: both;
+}
