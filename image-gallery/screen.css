@@ -3,3 +3,9 @@ body {
 	color: #efefef;
 	font-family: Futura, sans-serif;
 }
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
