@@ -17,3 +17,10 @@ li {
 footer {
 	clear: both;
 }
+
+@media all and (min-width: 35.5em){
+	.wrapper {
+		width: 35.5em;
+		margin: auto;
+	}
+}
