@@ -4,6 +4,11 @@ body {
 	font-family: Futura, sans-serif;
 }
 
+.wrapper {
+	width: 19.75em;
+	margin: auto;
+}
+
 ul {
 	list-style-type: none;
 	margin: 0;
@@ -20,14 +25,12 @@ footer {
 
 @media all and (min-width: 35.5em){
 	.wrapper {
-		width: 35.5em;
-		margin: auto;
+		width: 28.5em;
 	}
 }
 
 @media all and (min-width: 62.5em){
 	.wrapper {
-		width: 45.5em;
-		margin: auto;
+		width: 37.5em;
 	}
 }
