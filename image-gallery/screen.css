@@ -24,3 +24,10 @@ footer {
 		margin: auto;
 	}
 }
+
+@media all and (min-width: 62.5em){
+	.wrapper {
+		width: 45.5em;
+		margin: auto;
+	}
+}
